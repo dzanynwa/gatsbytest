@@ -1,0 +1,242 @@
+{
+  "MENU_ITEMS": [
+    {
+      "label": "Features",
+      "path": "#transactions",
+      "offset": "0"
+    },
+    {
+      "label": "Benefits",
+      "path": "#trusted",
+      "offset": "-10"
+    },
+    {
+      "label": "Interface",
+      "path": "#featureslider",
+      "offset": "0"
+    },
+    {
+      "label": "FAQ",
+      "path": "#faqSection",
+      "offset": "0"
+    },
+    {
+      "label": "Contact Us",
+      "path": "#footerSection",
+      "offset": "380"
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "review": "Best working experience  with this amazing team & in future, we want to work together",
+      "name": "Jon Doe",
+      "designation": "CEO of Dell Co.",
+      "avatar": "../../assets/image/crypto/author-4.jpg"
+    },
+    {
+      "review": "Impressed with master class support of the team and really look forward for the future.",
+      "name": "Jon Doe",
+      "designation": "Co Founder of IBM",
+      "avatar": "../../assets/image/crypto/author-2.jpg"
+    },
+    {
+      "review": "I have bought more than 10 themes on ThemeForest, and this is the first one I review.",
+      "name": "Jeny Doe",
+      "designation": "Manager of Hp co.",
+      "avatar": "../../assets/image/crypto/author-3.jpg"
+    },
+    {
+      "review": "Impressed with master class support of the team and really look forward for the future.",
+      "name": "Jon Doe",
+      "designation": "Manager of Hp co.",
+      "avatar": "../../assets/image/crypto/author-1.jpg"
+    }
+  ],
+  "TRANSACTIONS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/planning.svg",
+      "title": "Production and Inventory Planning",
+      "des": "Smart Sales Forecasting ensures better production and inventory planning by analyzing the data given by the business."
+    },
+    {
+      "image": "../../assets/image/crypto/pricing.svg",
+      "title": "Competitive Pricing",
+      "des": "Utilize trends and patterns to set competitive prices for your products in order to maximize the revenue."
+    },
+    {
+      "image": "../../assets/image/crypto/promotion.svg",
+      "title": "Timely Promotion Planning",
+      "des": "Predict when to promote a service or product by analzing selling patterns combined with other internal and external factors."
+    },
+    {
+      "image": "../../assets/image/crypto/classification.svg",
+      "title": "Classification of a Product Portfolio",
+      "des": "Callbacks are sent to the URL you specified. You can process customer order"
+    }
+  ],
+  "PROOFS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/Setting.svg",
+      "title": "Flexible",
+      "des": "Applicable with every sales business"
+    },
+    {
+      "image": "../../assets/image/crypto/Overview.svg",
+      "title": "Easy to use",
+      "des": "Simple design with intuitive functionalities"
+    },
+    {
+      "image": "../../assets/image/crypto/Login.svg",
+      "title": "Secure",
+      "des": "We value your data privacy"
+    },
+    {
+      "image": "../../assets/image/crypto/Manage.svg",
+      "title": "Scalable",
+      "des": "The solution scales with the scope"
+    },
+    {
+      "image": "../../assets/image/crypto/Reports.svg",
+      "title": "Insigthful",
+      "des": "Complete overview of your sales"
+    },
+    {
+      "image": "../../assets/image/crypto/data.svg",
+      "title": "Efficient",
+      "des": "Save time, earn more"
+    }
+  ],
+  "SCALABLE_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Daily Jackpot",
+      "des": "35000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Weekly Jackpot",
+      "des": "250000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Monthly Jackpot",
+      "des": "4999697 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Yearly Jackpot",
+      "des": "300245785000 CLV"
+    }
+  ],
+  "BETA_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/beta-1.svg",
+      "title": "Effective",
+      "des": "Save money and time."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-2.svg",
+      "title": "24/7 Support",
+      "des": "Always here for you."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-3.svg",
+      "title": "Secure",
+      "des": "Your data is safe."
+    }
+  ],
+  "menuWidget": [
+    {
+      "id": 1,
+      "title": "Navigation",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Home"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Features"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "FAQ"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Contact Us"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Other Products",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Smart Warehouse Management"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Smart Commerce"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "Smart Transport Management"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Follow Us",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Press inquiries"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Social media directories"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "Images & B-roll"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Permissions"
+        },
+        {
+          "id": 5,
+          "url": "#",
+          "text": "Speaker requests"
+        }
+      ]
+    }
+  ],
+  "Language_NAMES": [
+    {
+      "label": "English",
+      "value": "eng"
+    },
+    {
+      "label": "Chinese",
+      "value": "chinese"
+    },
+    {
+      "label": "Indian",
+      "value": "indian"
+    }
+  ]
+}
