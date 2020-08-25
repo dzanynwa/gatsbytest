@@ -74,10 +74,6 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
                 drawerClose={true}
                 offset={-100}
               />
-
-              <AnchorLink href="#footerSection">
-                <Button {...button} title="GET STARTED" />
-              </AnchorLink>
             </Drawer>
           </Box>
         </Box>
